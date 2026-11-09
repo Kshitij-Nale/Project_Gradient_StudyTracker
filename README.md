@@ -188,13 +188,13 @@ Contributions, issues, and feature requests are welcome!
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE). Add a `LICENSE` file to your repo, or change this section to match the license you choose.
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
 ## 👤 Author
 
 **Your Name**
-GitHub: [@your-username](https://github.com/your-username)
+GitHub: [@yKshitij-Nale](https://github.com/Kshitij-Nale)
 
 ⭐ If you found this project useful, consider giving it a star!
