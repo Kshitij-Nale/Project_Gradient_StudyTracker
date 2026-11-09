@@ -1,4 +1,4 @@
-# 📚 Study Tracker
+# 📚 Gradient - StudyTracker
 
 A lightweight Java application to log, review, and analyze your study sessions. It comes with **two interfaces in one program**: a Swing-based **GUI** (default) and a classic **console menu**. Study data can be exported to and loaded from CSV files.
 
